@@ -1,0 +1,6 @@
+Run the code to mount it on the device
+Use keyboard symbols to do your calculations
+Eg 5*9
+    6+7
+     2-9
+       7/14
